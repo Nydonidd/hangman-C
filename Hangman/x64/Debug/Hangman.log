@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\nydon\source\repos\Hangman\main.c(13,8): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\nydon\source\repos\Hangman\main.c(26,11): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  Hangman.vcxproj -> C:\Users\nydon\source\repos\Hangman\x64\Debug\Hangman.exe
